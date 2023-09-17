@@ -12,6 +12,13 @@ Dataset was extend to provide better results by replacing emojis with their resp
 | While we hit 150,000 in #COVID19 deaths, the P... | new_zealand |
 | 🇺🇸 Pandémie de #coronavirus: 30 pasteurs améri...	| us          |
 
+## Analysis
+Within the Notebook is an extensive descriptive analysis using numerous NLP techniques in an attempt extract useful information from the dataset.
+- Finding top ten hashtags
+- Calculating statistics based on words, characters, and hashtags within the tweets
+- Utilizing LDA to topics from the dataset
+- Performing Non-negative Matrix Factorization for topic analysis
+
 
 ## Modeling
 | model                    | accuracy |
