@@ -20,7 +20,7 @@ Dataset was extend to provide better results by replacing emojis with their resp
 | Logistic Regression      | 45.2%    |
 | Linear SVC               | 48.7%    |
 | Multinomial Naive Bayes  | 49.4%    |
-</br></br>
+
 Ensemble model combined results from a CNN built using keras and a Multinomial Naive Bayes model built using Scikit-learn.
 
 ![](https://github.com/thomasdurkin/Capstone-Kaggle-Competition/blob/master/Confusion%20Matrix.PNG)
